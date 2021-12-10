@@ -1,0 +1,12 @@
+title: script1000ブログ
+description: ブログ
+author: script1000
+
+plugins:
+  - jekyll-cofeescript
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-feed
+
+paginate: 10
+pagenate_path: "/blog/data/pages/page:num/"
